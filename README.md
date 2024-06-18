@@ -11,11 +11,15 @@
   </p>
 </p>
 
+<h3 align="center"><a href="https://arxiv.org/abs/2406.11711">Paper</a> </a></h3>
+
 <p align="center">
-  <a href="">
+  <a href="https://arxiv.org/abs/2406.11711">
     <img src="./figures/Pipeline.png" alt="Logo" width="98%">
   </a>
 </p>
+
+
 
 ## Environment Setup
 We recommend creating a python enviroment with anaconda.
@@ -228,6 +232,14 @@ This codebase is developed based on [CompletionFormer](https://github.com/youmi-
 
 ## Citation
 If you find our work helpful please consider citing our paper:
+```
+@article{zuo2024ogni,
+  title={OGNI-DC: Robust Depth Completion with Optimization-Guided Neural Iterations},
+  author={Zuo, Yiming and Deng, Jia},
+  journal={arXiv preprint arXiv:2406.11711},
+  year={2024}
+}
+```
 
 
 
