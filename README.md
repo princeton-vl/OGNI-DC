@@ -1,6 +1,6 @@
 <p align="center">
 
-  <h1 align="center">(ECCV24) OGNI-DC: Robust Depth Completion with Optimization-Guided Neural Iterations</h1>
+  <h1 align="center">[ECCV24] OGNI-DC: Robust Depth Completion with Optimization-Guided Neural Iterations</h1>
   <p align="center">
     <a href="https://zuoym15.github.io/"><strong>Yiming Zuo</strong></a>
     ·
