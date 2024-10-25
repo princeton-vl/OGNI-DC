@@ -130,9 +130,7 @@ kitti_depth
 First download the zip files (you can use [gdown](https://github.com/wkentaro/gdown)) under `datasets`:
 ```
 cd datasets
-https://drive.google.com/open?id=1kZ6ALxCzhQP8Tq1enMyNhjclVNzG8ODA
-https://drive.google.com/open?id=1ys5EwYK6i8yvLcln6Av6GwxOhMGb068m
-https://drive.google.com/open?id=1bTM5eh9wQ4U8p2ANOGbhZqTvDOddFnlI
+https://drive.google.com/open?id=1rzTFD35OCxMIguxLDcBxuIdhh5T2G7h4
 ```
 Under the `datasets` folder, run
 ```
