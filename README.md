@@ -234,7 +234,7 @@ If you find our work helpful please consider citing our paper:
 @inproceedings{ognidc,
   title={OGNI-DC: Robust Depth Completion with Optimization-Guided Neural Iterations},
   author={Zuo, Yiming and Deng, Jia},
-  booktitle=ECCV,
+  booktitle={European Conference on Computer Vision (ECCV)},
   pages={78--95},
   year={2024}
 }
