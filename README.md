@@ -231,10 +231,11 @@ This codebase is developed based on [CompletionFormer](https://github.com/youmi-
 ## Citation
 If you find our work helpful please consider citing our paper:
 ```
-@article{zuo2024ogni,
+@inproceedings{ognidc,
   title={OGNI-DC: Robust Depth Completion with Optimization-Guided Neural Iterations},
   author={Zuo, Yiming and Deng, Jia},
-  journal={arXiv preprint arXiv:2406.11711},
+  booktitle=ECCV,
+  pages={78--95},
   year={2024}
 }
 ```
