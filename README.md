@@ -64,7 +64,7 @@ Create a folder named `datasets` and put all datasets under it.
 
 #### NYUv2
 
-We used preprocessed NYUv2 HDF5 dataset provided by [Fangchang Ma](https://github.com/fangchangma/sparse-to-dense).
+We used preprocessed NYUv2 HDF5 dataset provided by [Fangchang Ma](https://github.com/fangchangma/sparse-to-dense)/([alternative link](https://drive.google.com/file/d/1im9QKi8SZGQ7R0qORqUkelA7Ce-DwyTL/view?usp=sharing)).
 
 ```shell
 cd datasets
