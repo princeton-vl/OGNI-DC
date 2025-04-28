@@ -1,3 +1,5 @@
+
+
 <p align="center">
 
   <h1 align="center">[ECCV24] OGNI-DC: Robust Depth Completion with Optimization-Guided Neural Iterations</h1>
@@ -19,7 +21,8 @@
   </a>
 </p>
 
-
+## Extension: OMNI-DC
+Check out our latest model, [OMNI-DC](https://github.com/princeton-vl/OMNI-DC/tree/main), which is stronger and faster than OGNI-DC! Trained on large-scale datasets, OMNI-DC can generalize zero-shot to various environments.
 
 ## Environment Setup
 We recommend creating a python enviroment with anaconda.
